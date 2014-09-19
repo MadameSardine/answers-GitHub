@@ -12,8 +12,8 @@ Git features explained in this repository
 
 More resources on Git
 -----------------------------------------
-[Git immersion](http://gitimmersion.com/)
-[Official Git site](http://git-scm.com/)
-[Official Git documentation](http://git-scm.com/doc)
-[Markdown Basics](https://help.github.com/articles/markdown-basics)
+* [Git immersion](http://gitimmersion.com/)
+* [Official Git site](http://git-scm.com/)
+* [Official Git documentation](http://git-scm.com/doc)
+* [Markdown Basics](https://help.github.com/articles/markdown-basics)
 
