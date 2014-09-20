@@ -1,1 +1,1 @@
-# What does 'git clone' does?
+# What does 'git clone' do?
